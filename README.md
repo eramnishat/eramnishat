@@ -1,5 +1,5 @@
 ## Hi there, I'm Eram.
-I'm a Data Science student at IIT Madras, and I'm totally hooked on figuring out how machine learning can shake up and improve financial systems.
+I'm a Data Science student figuring out how machine learning can shake up and improve financial systems.
 
 ---
 
@@ -7,7 +7,7 @@ I'm a Data Science student at IIT Madras, and I'm totally hooked on figuring out
 
 **Languages:** Python, Java, SQL, Bash | 
 **Backend:** FastAPI, PostgreSQL, Redis, REST API design, SQLAlchemy | 
-**AI integration:**                OpenAI/Anthropic API, LangChain, pgvector, prompt engineering | 
+**AI integration:**                OpenAI/Anthropic API, LangChain, pgvector | 
 **Cloud:**                        AWS (EC2, S3, Lambda, RDS, ECS, IAM, VPC, CloudWatch) | 
 **Data:**                          ETL/ELT pipelines, data modelling, feature engineering, Apache Spark (familiar) | 
 **Infrastructure:**               Docker, Kubernetes, Terraform, GitHub Actions CI/CD, Linux, Git
